@@ -5,6 +5,11 @@ function theBeatlesPLay(){
 
 function johnLennonFacts(){
   
+  
+  
+  
+  
+  
 }
 
 
