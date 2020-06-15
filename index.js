@@ -12,7 +12,7 @@ var num = 15;
 
 function iLoveTheBeatles(num) {
   
-  var emptyArray  = ["I love the Beatles!"];
+  var emptyArray  = [];
 
 do{
  emptyArray.push(["I love the Beatles!")
