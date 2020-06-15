@@ -7,7 +7,7 @@ function johnLennonFacts(){
   
 }
 
-var num = 15;
+
 
 
 function iLoveTheBeatles(num) {
