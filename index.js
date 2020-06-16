@@ -42,5 +42,5 @@ function iLoveTheBeatles(num) {
   } while (num < 15);
 
   // return the array of strings.
-  return arr;
+  return emptyArray;
 }
