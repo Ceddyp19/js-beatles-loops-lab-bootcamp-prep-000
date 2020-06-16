@@ -1,7 +1,7 @@
 // create a function theBeatlesPlay which accepts two parameters an array of musicians and an array of instruments
 function theBeatlesPlay(musicians, instruments) {
   // body of the function should create an empty array stored in a variable
-  let arr = []; 
+  let emptyArray = []; 
 
   // should also contain a for loop which loops over the array of musicians
   for (let index = 0; index < musicians.length; index++) {
