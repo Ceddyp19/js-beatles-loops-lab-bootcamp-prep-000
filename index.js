@@ -37,7 +37,7 @@ function iLoveTheBeatles(num) {
   // the loop should increment the number passed as a parameter.
   // the condition of the loop should check that the parameter number is less than 15
   do {
-    empty.push("I love the Beatles!");
+    emptyArray.push("I love the Beatles!");
     num++;  
   } while (num < 15);
 
