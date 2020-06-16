@@ -31,7 +31,7 @@ function johnLennonFacts(facts) {
 // create a function iLoveTheBeatles which accepts a number as a parameter
 function iLoveTheBeatles(num) {
   // create a variable that stores an empty array.
-  let arr = [];
+  let emptyArray = [];
 
   // implement a do-while loop inside the function that adds "I love the Beatles!" to the empty array.
   // the loop should increment the number passed as a parameter.
