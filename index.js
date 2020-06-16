@@ -7,10 +7,10 @@ function theBeatlesPlay(musicians, instruments) {
   for (let index = 0; index < musicians.length; index++) {
     // the body of the loop should create a string using the first index of the musician array and the first index of the instruments array
     // and should be added to the empty array you created.
-    arr.push(`${musicians[index]} plays ${instruments[index]}`);
+    emptyArray.push(`${musicians[index]} plays ${instruments[index]}`);
   }
   
-  return arr;
+  return emptyArray;
 }
 
 // create a function johnLennonFacts it accepts one argument, an array of facts
